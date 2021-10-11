@@ -17,7 +17,7 @@ CVme adalah website pembuat CV online yang mempermudah dan mempercepat pembuatan
 ```bash
 git clone https://github.com/zidandff/cvme.git
 
-cd toko-obat-v1
+cd cvme
 
 composer install
 
